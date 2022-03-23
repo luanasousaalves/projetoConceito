@@ -8,6 +8,7 @@ const Menu = () => {
            <li><a href="">Pagina 1</a></li>
            <li><a href="">Pagina 2</a></li>
            <li><a href="">Pagina 3</a></li>
+           <li><a href="">Pagina 3</a></li>
        </ul>
        
     </div>
